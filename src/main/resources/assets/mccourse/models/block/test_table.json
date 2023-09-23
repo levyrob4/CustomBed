@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"0": "mccourse:block/test_table_texture",
+		"particle": "mccourse:block/test_table_texture"
+	},
+	"elements": [
+		{
+			"from": [4.4, 10, 2],
+			"to": [6.4, 12, 4],
+			"faces": {
+				"north": {"uv": [0, 0, 2, 2], "texture": "#0"},
+				"east": {"uv": [0, 2, 2, 4], "texture": "#0"},
+				"south": {"uv": [2, 0, 4, 2], "texture": "#0"},
+				"west": {"uv": [2, 2, 4, 4], "texture": "#0"},
+				"up": {"uv": [2, 6, 0, 4], "texture": "#0"},
+				"down": {"uv": [6, 0, 4, 2], "texture": "#0"}
+			}
+		}
+	]
+}

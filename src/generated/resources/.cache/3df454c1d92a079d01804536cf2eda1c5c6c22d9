@@ -1,0 +1,11 @@
+// 1.20.1	2023-09-17T09:12:41.7505915	Block States: mccourse
+9b0f59e6a967af477e6f41100bfecb754add6ea2 assets/mccourse/blockstates/alexandrite_block.json
+9c4eee260ca52ad20ee4522bcb30fc8e1bae9daa assets/mccourse/blockstates/alexandrite_ore.json
+2bd9f6ab9904321d645967996ac17eae68f3399c assets/mccourse/blockstates/raw_alexandrite_block.json
+c259b4dd2a8770f9fce18e35d0915fb817767c9d assets/mccourse/blockstates/test_table.json
+646f4872d0ab789368b384ca1e467960dd13d815 assets/mccourse/models/block/alexandrite_block.json
+19a35b68d2764035a9936b860135b99bd4ac1248 assets/mccourse/models/block/alexandrite_ore.json
+44de6fdbc9944654152a7b32b782c4b48195f25b assets/mccourse/models/block/raw_alexandrite_block.json
+5d130cf7e4d52cc6b9e11fb75e7bb78128858d2c assets/mccourse/models/item/alexandrite_block.json
+5f597a7904f05b8e8388ad7b602fda90f0bc4502 assets/mccourse/models/item/alexandrite_ore.json
+b5fac3d0e039ec5e36c46df4560884ec2b4915b7 assets/mccourse/models/item/raw_alexandrite_block.json

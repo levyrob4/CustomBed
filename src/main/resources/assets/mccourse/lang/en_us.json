@@ -1,0 +1,17 @@
+{
+  "item.mccourse.alexandrite": "Alexandrite",
+  "item.mccourse.raw_alexandrite": "Raw Alexandrite",
+
+  "block.mccourse.alexandrite_block": "Alexandrite Block",
+  "block.mccourse.raw_alexandrite_block": "Raw Alexandrite Block",
+  "block.mccourse.alexandrite_ore": "Alexandrite Ore",
+
+  "_comment": "my test block",
+  "block.mccourse.test_table": "Table Test",
+
+  "_comment": "creative tab",
+  "creativetab.course_tab": "Course Tab",
+
+  "item.mccourse.metal_detector": "Metal Detector",
+  "item.mccourse.metal_detector.no_valuables": "No Valuables Found!"
+}

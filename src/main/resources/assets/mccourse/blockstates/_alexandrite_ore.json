@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": {
+      "_comment": "the mccourse refers to the MOD_ID",
+      "model": "mccourse:block/alexandrite_ore"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 50,
+  "experience": 1,
+  "group": "alexandrite",
+  "ingredient": {
+    "item": "mccourse:raw_alexandrite"
+  },
+  "_comments": "you cannot make more than one item from smelting or blasting",
+  "result": "mccourse:alexandrite"
+}
